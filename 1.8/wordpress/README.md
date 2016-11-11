@@ -80,14 +80,13 @@ We have created 6 DNS names per `dcosXX` cluster. Please use your position away 
 
 | User | Wordpress DC/OS Hostname |
 | --- | --- | --- |
-| 1 | https://wp01.public.dcos01.qcon.mesosphere.com |
-| 2 | https://wp02.public.dcos01.qcon.mesosphere.com |
-| 3 | https://wp03.public.dcos01.qcon.mesosphere.com |
-| 4 | https://wp04.public.dcos01.qcon.mesosphere.com |
-| 5 | https://wp05.public.dcos01.qcon.mesosphere.com |
-| 6 | https://wp06.public.dcos01.qcon.mesosphere.com |
+| 1 | wp01.public.dcos01.qcon.mesosphere.com |
+| 2 | wp02.public.dcos01.qcon.mesosphere.com |
+| 3 | wp03.public.dcos01.qcon.mesosphere.com |
+| 4 | wp04.public.dcos01.qcon.mesosphere.com |
+| 5 | wp05.public.dcos01.qcon.mesosphere.com |
+| 6 | wp06.public.dcos01.qcon.mesosphere.com |
 
- i.e. `$PUBLIC_AGENT`, with your own (for example `ec2-52-51-80-141.eu-west-1.compute.amazonaws.com` - be sure to remove the `https://`):
 
 ```json
 {
