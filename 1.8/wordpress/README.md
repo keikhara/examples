@@ -6,6 +6,7 @@
 - Target audience: Anyone interested using a blog.
 - Scope: Learn how to use WordPress on DC/OS.
 
+This is a modified version of: [How to use WordPress on DC/OS](https://github.com/dcos/examples/tree/master/1.8/wordpress).
 
 **Table of Contents**:
 
